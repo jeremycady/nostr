@@ -1,1 +1,0 @@
-{"status":"OK","tag":"payRequest","commentAllowed":255,"callback":"https://getalby.com/lnurlp/jeremy1/callback","metadata":"[[\"text/identifier\",\"jeremy1@getalby.com\"],[\"text/plain\",\"Sats for jeremy1\"]]","minSendable":1000,"maxSendable":11000000000,"payerData":{"name":{"mandatory":false},"email":{"mandatory":false}}}
